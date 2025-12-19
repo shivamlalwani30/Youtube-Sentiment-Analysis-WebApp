@@ -1,6 +1,5 @@
 Live App Link : https://youtube-sentiment-analysis-webapp-blp6c45jmx8w2p6ppapxqt.streamlit.app
 
-
 # YouTube Comment Sentiment Analysis Web App
 
 A web-based application built using **Python** and **Streamlit** that analyzes the sentiment of comments from a YouTube video. The app fetches comments using the **YouTube Data API**, processes them with **TextBlob**, and visualizes the sentiment distribution.
